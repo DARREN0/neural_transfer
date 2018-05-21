@@ -39,3 +39,5 @@ print("git test")
 print("diff test")
 
 print("no edit")
+
+print("commit reset")
