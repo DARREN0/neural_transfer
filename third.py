@@ -32,3 +32,5 @@ def monisen(num):
 
 num = int(input("默尼森数:"))
 print(monisen(num))
+
+print("git test")
